@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cTRAP"]
+	path = cTRAP
+	url = https://github.com/nuno-agostinho/ctrap
+	shallow = true
+	registered = true
+[submodule "psichomics"]
+	path = psichomics
+	url = https://github.com/nuno-agostinho/psichomics
+	shallow = true
+	registered = true
