@@ -8,3 +8,8 @@
 	url = https://github.com/nuno-agostinho/ctrap
 	shallow = true
 	registered = true
+[submodule "psichomics"]
+	path = psichomics
+	url = https://github.com/nuno-agostinho/psichomics
+	shallow = true
+	registered = true
